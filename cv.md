@@ -3,14 +3,10 @@ layout: cv
 title: Ruben Plaudo Maslim's CV
 ---
 # Ruben Plaudo Maslim
-**Email:** rubenplaudo@yahoo.com<br />
-**GitHub:** Ruben-PM
-<br/><br/>
-<!-- <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
-
+**Email:** rubenplaudo@yahoo.com   
+**Telegram:** @Ruben1908   
+**GitHub:** Ruben-PM    
+<br/>
 
 ## Currently
 
@@ -23,44 +19,60 @@ Web Development Learner
 
 ### Interests
 
-Back-end tech
-<br/><br/>
+Back-end tech     
+<br/> 
 
 ## Education
-
-`Sept 2022-Now`<br/>
+---
+`Sept 2022-Now`   
 __RS School -__ Front-end Course
 
-`2004-2008`<br/>
+`2004-2008`   
 __University of Surabaya (Ubaya) -__ Industrial Engineering Bachelor Program
 
-`2003 - 2007`<br/>
-__English First -__ General English
-<br/><br/>
+`2003 - 2007`   
+__English First -__ General English     
+<br/>       
 
-## Occupation
-
-`2019 - July 2022`<br/>
+## Work Experience
+---
+`2019 - July 2022`   
 __Korean Manufacturing Company__, Wroclaw
 
 - Production Team Leader
 - Maintenance Team Member
 
-`2008 - 2018`<br/>
+`2008 - 2018`   
 __Indonesian Manufacturing Company__, Jakarta
 
-* Production Planning and Inventory Supervisor
-<br/><br/>
+* Production Planning and Inventory Supervisor    
+<br/>
 
-## Skills
-See below on my Code Examples section
-<br/><br/>
+## Skills    
+---
+- HTML5, CSS3 (basic)   
+- Git, GitHub (basic)   
+- Editor: VSCode   
+<br/>
 
 ## Code Examples
-
-`<table style="width: 50%">`<br/>
+---
+`<table style="width: 60%">`<br/>
 &ensp;`<tr>Subject</tr>`<br/>
 &ensp;`<tr>Level</tr>`<br/> 
-`</table>`
+`</table>`    
+<br/>
 
-<!-- Last updated: May 2013 -->
+## Language   
+--- 
+1. Indonesian (Native)
+1. English (Intermediate)
+1. German (Basic)   
+<br/>
+
+## Summary
+---
+> Rome wasn't built in a day, but they were laying bricks every hour. You don't have to build everything you want today, just lay a brick. - James Clear
+ 
+
+<!-- Last updated: October 2022 -->
