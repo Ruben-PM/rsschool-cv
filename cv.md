@@ -19,10 +19,10 @@ Back-end tech
 
 ## Education
 ---
-`Sept 2022-Now`   
+`Sept 2022 - Now`   
 __RS School -__ Front-end Course
 
-`2004-2008`   
+`2004 - 2008`   
 __University of Surabaya (Ubaya) -__ Industrial Engineering Bachelor Program
 
 `2003 - 2007`   
