@@ -19,7 +19,8 @@ Web Development Learner
 
 ### Interests
 
-Back-end tech     
+Back-end tech    
+Polish language      
 <br/> 
 
 ## Education
@@ -36,7 +37,7 @@ __English First -__ General English
 
 ## Work Experience
 ---
-`2019 - July 2022`   
+`2021 - July 2022`   
 __Korean Manufacturing Company__, Wroclaw
 
 - Production Team Leader
@@ -73,6 +74,6 @@ __Indonesian Manufacturing Company__, Jakarta
 ## Summary
 ---
 > Rome wasn't built in a day, but they were laying bricks every hour. You don't have to build everything you want today, just lay a brick. - James Clear
- 
+
 
 <!-- Last updated: October 2022 -->
