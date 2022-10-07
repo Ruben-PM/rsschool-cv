@@ -10,17 +10,11 @@ title: Ruben Plaudo Maslim's CV
 
 ## Currently
 
-Web Development Learner 
-
-### Specialized in 
-
-![HTML CSS JavaScript Logo]() <!--Fix this -->
-
+Web Development Learner (HTML-CSS-JavaScript)      
 
 ### Interests
 
-Back-end tech    
-Polish language      
+Back-end tech           
 <br/> 
 
 ## Education
@@ -87,7 +81,8 @@ __Indonesian Manufacturing Company__, Jakarta
 
 ## Summary
 ---
-> Rome wasn't built in a day, but they were laying bricks every hour. You don't have to build everything you want today, just lay a brick. - James Clear
+> Rome wasn't built in a day, but they were laying bricks every hour. You don't have to build everything you want today, just lay a brick. - James Clear    
 
+That above proverb reminds me that it is important to build knowledge consistently. That's why I am happy to join RS School. I hope here I can get guidance and mentor that/who tells me the mistake I made, so I can be a good web developer and contribute in tech industry soon. 
 
 <!-- Last updated: October 2022 -->
