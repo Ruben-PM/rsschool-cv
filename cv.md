@@ -14,7 +14,7 @@ Web Development Learner (HTML-CSS-JavaScript)
 
 ### Interests
 
-Back-end tech           
+Back-End tech           
 <br/> 
 
 ## Education
