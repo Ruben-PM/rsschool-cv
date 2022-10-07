@@ -50,16 +50,17 @@ __Korean Manufacturing Company__, Wroclaw
 __Indonesian Manufacturing Company__, Jakarta
 
 * Production Planning and Inventory Supervisor
-
+<br/><br/>
 
 ## Skills
-
+See below on my Code Examples section
+<br/><br/>
 
 ## Code Examples
 
 `<table style="width: 50%">`<br/>
-`  <tr>Subject</tr>`
-  <tr>Level</tr> 
-</table>`
+&ensp;`<tr>Subject</tr>`<br/>
+&ensp;`<tr>Level</tr>`<br/> 
+`</table>`
 
 <!-- Last updated: May 2013 -->
