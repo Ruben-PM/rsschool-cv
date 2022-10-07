@@ -47,7 +47,8 @@ __Indonesian Manufacturing Company__, Jakarta
 ---
 - HTML5, CSS3 (basic)   
 - Git, GitHub (basic)   
-- Editor: VSCode   
+- Editor: VSCode
+- Microsoft Office (intermediat)    
 <br/>
 
 ## Code Examples
