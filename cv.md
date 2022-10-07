@@ -58,10 +58,24 @@ __Indonesian Manufacturing Company__, Jakarta
 
 ## Code Examples
 ---
-`<table style="width: 60%">`<br/>
-&ensp;`<tr>Subject</tr>`<br/>
-&ensp;`<tr>Level</tr>`<br/> 
-`</table>`    
+    <table style="width: 60%; border: 1px solid;">    
+        <tr>
+            <th style="border: 1px solid;">Subject</th>
+            <th style="border: 1px solid;">Level</th>
+        </tr>    
+        <tr>
+            <td style="border: 1px solid;">HTML5</td>
+            <td style="border: 1px solid;">Basic</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid;">CSS5</td>
+            <td style="border: 1px solid;">Basic</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid;">Git/GitHub</td>
+            <td style="border: 1px solid;">Basic</td>
+        </tr>     
+    </table>        
 <br/>
 
 ## Language   
