@@ -1,0 +1,33 @@
+body {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    color: whitesmoke;
+    background-color: darkslategray;
+    height: 10vh;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    height: 90vh;
+}
+
+.main .col-1 {
+    width: 30vw;
+    heigh: 500px; 
+    border: 2px solid;
+    background-color: orange;
+}
+
+.main .col-2 {
+    width: 70vw; 
+    heigh: 500px; 
+    border: 2px solid blue; 
+    background-color: gray;
+}
