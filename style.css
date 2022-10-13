@@ -98,3 +98,39 @@ p {
     
     margin-bottom: 0;
 }
+
+footer {
+    border: 1px solid yellow;
+    background-color: darkslategray;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 12vh; 
+}
+
+.footer-col-1 {
+    width: 50vw;
+    border: 2px solid black;
+    font-size: 1em;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.footer-col-2 {
+    width: 50vw; 
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+}
+
+.footer-col-2 img {
+    height: 40px;
+    width: 100px;
+}
+
+a {
+    color: yellowgreen;
+}
