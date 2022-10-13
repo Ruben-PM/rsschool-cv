@@ -10,12 +10,18 @@ header {
     background-color: darkslategray;
     height: 10vh;
     text-align: center;
+    
+}
+
+.name {
+    borde: 1px solid red;
+    padding-top: 10px;
 }
 
 .main {
     display: flex;
     flex-direction: row;
-    height: 90vh;
+    heigh: 90vh;
 }
 
 .main .col-1 {
@@ -30,4 +36,54 @@ header {
     heigh: 500px; 
     border: 2px solid blue; 
     background-color: gray;
+}
+
+figure {
+    borde: 1px solid yellow;
+    margin-left: 1.8em;
+}
+
+img {
+    border: 1px solid;
+    width: 23vw;
+    max-width: 300px;
+    heigh: 200px;
+     
+}
+
+.col-1 {
+    padding: 5px;
+}
+
+.col-2 {
+    padding: 5px;
+}
+
+.title1 {
+    border: 1px solid darkslategray;
+    width: 23vw;
+    background-color: darkslategray;
+    color: white;
+    padding-left: 23px;
+}
+
+.title2 {
+    border: 1px solid gainsboro;
+    width: 23vw;
+    background-color: gainsboro;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+table {
+    margin-top: 5px;
+}
+
+.col-2-sum code {
+    background-color: gainsboro;
+    display: block; 
+    margin: 5px 0;
+    borde: 1px solid yellow;
 }
