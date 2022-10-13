@@ -14,32 +14,30 @@ header {
 }
 
 .name {
-    borde: 1px solid red;
+    
     padding-top: 10px;
 }
 
 .main {
     display: flex;
     flex-direction: row;
-    heigh: 90vh;
+    
 }
 
 .main .col-1 {
-    width: 30vw;
-    heigh: 500px; 
-    border: 2px solid;
+    width: 30vw; 
+    /* border: 2px solid;  */
     background-color: orange;
 }
 
 .main .col-2 {
-    width: 70vw; 
-    heigh: 500px; 
-    border: 2px solid blue; 
+    width: 70vw;  
+    /* border: 2px solid blue;   */
     background-color: gray;
 }
 
 figure {
-    borde: 1px solid yellow;
+    /* border: 1px solid yellow; */
     margin-left: 1.8em;
 }
 
@@ -47,8 +45,7 @@ img {
     border: 1px solid;
     width: 23vw;
     max-width: 300px;
-    heigh: 200px;
-     
+    /* height: 200px;  */
 }
 
 .col-1 {
@@ -65,11 +62,13 @@ img {
     background-color: darkslategray;
     color: white;
     padding-left: 23px;
+    margin-top: 10px;
 }
 
 .title2 {
     border: 1px solid gainsboro;
     width: 23vw;
+    padding-left: 23px;
     background-color: gainsboro;
 }
 
@@ -85,5 +84,17 @@ table {
     background-color: gainsboro;
     display: block; 
     margin: 5px 0;
-    borde: 1px solid yellow;
+    
+}
+
+hr {
+    border: 2px solid brown;
+    width: 20vw;
+    margin-left: 0;
+    margin-top: 2px;
+}
+
+p {
+    
+    margin-bottom: 0;
 }
