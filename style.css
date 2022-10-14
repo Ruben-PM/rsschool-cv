@@ -10,28 +10,25 @@ header {
     background-color: darkslategray;
     height: 10vh;
     text-align: center;
-    
 }
 
 .name {
-    
     padding-top: 10px;
 }
 
 .main {
     display: flex;
     flex-direction: row;
-    
 }
 
 .main .col-1 {
-    width: 30vw; 
+    width: 30vw;
     /* border: 2px solid;  */
     background-color: orange;
 }
 
 .main .col-2 {
-    width: 70vw;  
+    width: 70vw;
     /* border: 2px solid blue;   */
     background-color: gray;
 }
@@ -82,9 +79,8 @@ table {
 
 .col-2-sum code {
     background-color: gainsboro;
-    display: block; 
+    display: block;
     margin: 5px 0;
-    
 }
 
 hr {
@@ -95,7 +91,6 @@ hr {
 }
 
 p {
-    
     margin-bottom: 0;
 }
 
@@ -105,7 +100,7 @@ footer {
     color: white;
     display: flex;
     flex-direction: row;
-    height: 12vh; 
+    height: 12vh;
 }
 
 .footer-col-1 {
@@ -117,7 +112,7 @@ footer {
 }
 
 .footer-col-2 {
-    width: 50vw; 
+    width: 50vw;
     /* border: 2px solid blue; */
     display: flex;
     flex-direction: column;
